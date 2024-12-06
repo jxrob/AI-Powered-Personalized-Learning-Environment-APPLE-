@@ -11,6 +11,3 @@
 ```bash
 git clone https://github.com/ai-powered-learning/apple-platform.git
 cd apple-platform
-npm install
-npm start
-npm run build
